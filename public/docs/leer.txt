@@ -1,0 +1,3 @@
+--version 27-10
+igual a 25-10 + crear rubro
+

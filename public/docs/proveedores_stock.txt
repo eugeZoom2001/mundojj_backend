@@ -1,0 +1,26 @@
+proveedores
+
+- id : num aleatorio
+- nombre
+- email 
+- telefonos
+- direccion
+- contacto
+
+articulos
+
+- id : num
+- descripcion
+- rubro
+- valor de compra(valor) 
+- cantidad
+- precio1
+- condicion1
+- precio2 
+- condicion2
+- precio3
+- condicion3
+- cod proveedor( idproveedor) 
+
+
+

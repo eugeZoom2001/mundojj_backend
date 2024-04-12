@@ -1,0 +1,2 @@
+let elModelo =$("#inputModelo option:selected").text(); 
+ //  obtengo en elModelo el texto del modelo
